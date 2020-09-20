@@ -1,5 +1,8 @@
 ### init.zsh:
-- p6df::modules::db::external::brew()
-- p6df::modules::db::home::symlink()
-- p6df::modules::db::version()
+- p6_sqlcmd()
+- p6df::modules::sqlserver::external::brew()
+- p6df::modules::sqlserver::home::symlink()
+- p6df::modules::sqlserver::init()
+- p6df::modules::sqlserver::run()
+- p6df::modules::sqlserver::version()
 
