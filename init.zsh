@@ -10,6 +10,18 @@ p6df::modules::sqlserver::version() { echo "0.0.1" }
 ######################################################################
 #<
 #
+# Function: p6df::modules::sqlserver::deps()
+#
+#>
+######################################################################
+p6df::modules::sqlserver::deps() {
+  ModuleDeps=(
+    p6m7g8/p6df-docker
+  )
+}
+######################################################################
+#<
+#
 # Function: p6df::modules::sqlserver::external::brew()
 #
 #>
