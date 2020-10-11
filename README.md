@@ -5,5 +5,4 @@
 - p6df::modules::sqlserver::home::symlink()
 - p6df::modules::sqlserver::init()
 - p6df::modules::sqlserver::run()
-- p6df::modules::sqlserver::version()
 
