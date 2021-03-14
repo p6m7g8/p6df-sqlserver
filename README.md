@@ -38,9 +38,11 @@
 
 - [Change Log](CHANGELOG.md)
 
-### Usage
+## Usage
 
-#### init.zsh:
+### p6df-sqlserver:
+
+#### p6df-sqlserver/init.zsh:
 
 - p6_sqlcmd()
 - p6df::modules::sqlserver::deps()
