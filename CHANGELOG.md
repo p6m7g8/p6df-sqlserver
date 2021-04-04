@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.1.1](https://github.com/p6m7g8/p6df-sqlserver/compare/v2.1.0...v2.1.1) (2021-04-04)
+
+
+* **link:** remove rendundant symlinks; echo for now ([#12](https://github.com/p6m7g8/p6df-sqlserver/issues/12)) ([a6d2e83](https://github.com/p6m7g8/p6df-sqlserver/commit/a6d2e8349be5e000ba42ae415cde98ce5db05ba2))
+* **README:** updates generator ([#11](https://github.com/p6m7g8/p6df-sqlserver/issues/11)) ([ffc0e4e](https://github.com/p6m7g8/p6df-sqlserver/commit/ffc0e4e53a3013c156bb7d20a4077a4d868b81d1))
+* Coc -> .github ([93d7ac9](https://github.com/p6m7g8/p6df-sqlserver/commit/93d7ac9f28c677a1f47aa58a81a805da66f78c85))
+
 ## [2.1.0](https://github.com/p6m7g8/p6df-sqlserver/compare/v2.0.0...v2.1.0) (2020-12-06)
 
 
